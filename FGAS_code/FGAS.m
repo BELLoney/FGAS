@@ -5,10 +5,10 @@
 function AS=FGAS(data,sigma)
 %%%input:
 % data is data matrix without decisions, where rows for samples and columns for attributes.
-% All attributes should be normalized into [0,1]
-% sigma is a given parameter for the radius adjustment
+% All attributes should be normalized into [0,1].
+% sigma is a given parameter for the radius adjustment.
 %%%output
-% Fuzzy anomaly score AS.
+% Fuzzy anomaly score (AS).
 
 d=0.1;%
 [n,m]=size(data);
