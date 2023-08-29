@@ -26,7 +26,7 @@ anomaly_score=FGAS(trandata,sigma)
 You can get outputs as follows:
 ```
 anomaly_score =
-   0.1390
+    0.1390
     0.0539
     0.3785
     0.0011
