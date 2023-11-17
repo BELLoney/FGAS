@@ -59,3 +59,5 @@ If you find FGAS useful in your research, please consider citing:
   publisher={Elsevier}
 }
 ```
+## Contact
+If you have any question, please contact yuanzhong@scu.edu.cn.
